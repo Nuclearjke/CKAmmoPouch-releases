@@ -26,6 +26,7 @@ The addon only runs on hunters.
   nameplate, so **the addon turns friendly NPC nameplates on once**. You can turn the triangle off in settings.
 - **Mongoose Bite pop-up.** A large icon when Mongoose Bite is ready to use.
 - **Aspect alert.** A warning when you enter combat with Cheetah, Pack or no aspect on.
+- **Add macros.** One button adds 14 hunter macros from the Forever guides to your macro window, ready to drag onto your bars. Only macros for spells you know are added, and your own macros are left alone.
 
 ## Settings
 
@@ -34,7 +35,7 @@ in chat. `/ammo help` lists the other commands.
 
 ## Known gaps
 
-- It's still being tested in game. The vendor triangle and the aspect alert's latest fixes haven't been confirmed yet.
+- It's still being tested in game. The vendor triangle, the macros and the aspect alert's latest fixes haven't been confirmed yet. The Expose Prey timer for Mongoose Bite may still show 5 seconds in combat.
 - If the aspect alert fires while you do have an aspect on, please send the `aspect buffs:` line from `/ammo debug`,
   run out of combat with the aspect on.
 
